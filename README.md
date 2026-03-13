@@ -194,4 +194,4 @@ Sinta-se livre para adaptar e melhorar a ferramenta.
 ---
 # 👨‍💻 Author
 
-Gabriel Goddoi
+Gabriel Godoi
